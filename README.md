@@ -1,3 +1,6 @@
-# Nashville Housing Data Cleaning
+# Nashville Housing Data Cleaning Project using SQL
 
-Welcome to my data cleaning project in SQL! This repository contains the queries and dataset utitilzed in cleaning and preprocessing Nashville housing data. The goal of this project is to provide a clean and structured dataset for further analysis and modeling related to the Nashville housing market.
+
+## Overview
+
+This repository contains the SQL scripts used for cleaning and preparing the Nashville Housing dataset. The primary goal of this project is to demonstrate practical SQL skills in handling real-world data inconsistencies, standardizing formats, and preparing the data for further analysis. This project focuses solely on the data cleaning phase using SQL.
