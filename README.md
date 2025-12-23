@@ -3,4 +3,4 @@
 
 ## Overview
 
-This repository contains the SQL scripts used for cleaning and preparing the Nashville Housing dataset. The primary goal of this project is to demonstrate practical SQL skills in handling real-world data inconsistencies, standardizing formats, and preparing the data for further analysis. This project focuses solely on the data cleaning phase using SQL.
+This project utilizes MS SQL Server to transform a fragmented real estate dataset into a standardized, query-ready resource. The technical solution involves complex Self-Joins to populate missing geographic data, PARSENAME string manipulation to split address fields, and CTEs to remove redundant records. This project highlights the critical "pre-processing" phase of data analysis, ensuring that downstream reporting is built on a foundation of accurate and clean data.
