@@ -1,4 +1,4 @@
-# Nashville Housing Data Cleaning Project using SQL
+# Nashville Housing Data Cleaning Project
 
 
 ## Overview
